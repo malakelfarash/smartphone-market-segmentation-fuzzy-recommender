@@ -18,7 +18,15 @@ An end-to-end data mining project on 7,166 smartphones sold in the Indian market
 
 *K-Medoids Cluster Profiles (Mean Feature Values)*
 
-![Cluster Profiles](images/cluster_profiles_heatmap.png)
+![Cluster Profiles](images/kmedoids_cluster_profiles_heatmap.png)
+
+*Hierarchical Clusters vs. K-Medoids Market Tiers*
+
+![Hierarchical vs. K-Medoids Clusters](images/hierarchical_vs_kmedoids.png)
+
+*Hierarchical Cluster Profiles (Mean Feature Values)*
+
+![Hierarchical Cluster Profiles](images/hierarchical_cluster_profiles_heatmap.png)
 
 *Fuzzy Output: Centroid Defuzzification for One Device*
 
